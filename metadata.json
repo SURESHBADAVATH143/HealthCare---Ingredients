@@ -1,0 +1,7 @@
+{
+  "name": "HealthCare - Ingredient Decoder",
+  "description": "An intelligent food label analyzer that identifies allergens, vegan compliance, and explains complex technical ingredients using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
